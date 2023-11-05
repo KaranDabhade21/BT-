@@ -1,0 +1,56 @@
+  BT practical 5 
+
+# Survey Report on Types of Blockchains and Real-time Use Cases
+
+**Introduction:**
+Blockchain technology has evolved significantly since the inception of Bitcoin. While cryptocurrencies remain a prominent use case, various types of blockchains have emerged, each tailored to specific real-time applications. In this survey report, we will explore the different types of blockchains and their real-time use cases.
+
+## Types of Blockchains:
+
+### 1. **Public Blockchains:**
+   - **Use Case:** Public blockchains are open to everyone and are often used for decentralized cryptocurrencies like Bitcoin and Ethereum. These blockchains are censorship-resistant and provide a transparent ledger.
+
+### 2. **Private Blockchains:**
+   - **Use Case:** Private blockchains are used by organizations for internal purposes. They offer enhanced privacy and control over data. Real-time applications include supply chain management and intra-organization transactions.
+
+### 3. **Consortium Blockchains:**
+   - **Use Case:** Consortium blockchains are governed by a group of organizations. They are suitable for use cases where multiple entities need to collaborate and share data securely and transparently.
+
+### 4. **Permissionless Blockchains:**
+   - **Use Case:** Permissionless blockchains, like Ethereum, enable smart contracts and decentralized applications (DApps) for real-time use cases such as decentralized finance (DeFi), gaming, and identity management.
+
+### 5. **Permissioned Blockchains:**
+   - **Use Case:** Permissioned blockchains are employed in sectors like healthcare, where data privacy is paramount. They allow only authorized parties to access data, ensuring compliance with regulations.
+
+### 6. **Hybrid Blockchains:**
+   - **Use Case:** Hybrid blockchains combine elements of both public and private blockchains. Real-time applications include government services, where a balance between transparency and control is required.
+
+## Real-time Use Cases:
+
+### 1. **Supply Chain Management:**
+   - **Blockchain Type:** Private, Consortium
+   - **Description:** Blockchains are used to track products in real-time throughout the supply chain, reducing fraud, improving traceability, and enhancing accountability.
+
+### 2. **Cross-border Payments:**
+   - **Blockchain Type:** Permissionless
+   - **Description:** Cryptocurrencies and blockchain technology facilitate low-cost, near-instant cross-border payments without intermediaries.
+
+### 3. **Digital Identity Verification:**
+   - **Blockchain Type:** Permissioned, Permissionless
+   - **Description:** Blockchain-based identity solutions provide real-time, secure, and portable digital identities for individuals, minimizing identity theft and fraud.
+
+### 4. **Healthcare Data Sharing:**
+   - **Blockchain Type:** Permissioned
+   - **Description:** Health records and data can be securely and efficiently shared among healthcare providers in real-time, improving patient care and data integrity.
+
+### 5. **Smart Contracts and DeFi:**
+   - **Blockchain Type:** Permissionless
+   - **Description:** Decentralized finance (DeFi) platforms use smart contracts to automate real-time financial processes such as lending, trading, and yield farming.
+
+### 6. **Voting Systems:**
+   - **Blockchain Type:** Hybrid
+   - **Description:** Hybrid blockchains enable secure and transparent online voting systems, reducing fraud and improving accessibility.
+
+## Conclusion:
+
+Blockchain technology continues to evolve, offering a spectrum of solutions for various real-time use cases. The choice of blockchain type depends on the specific requirements of an application, balancing factors like transparency, security, control, and scalability. As the technology matures, we can expect even more innovative real-time applications across diverse sectors.
