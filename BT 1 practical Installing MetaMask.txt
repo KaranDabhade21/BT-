@@ -1,0 +1,48 @@
+  BT 1 practical
+
+
+Installing MetaMask and understanding how to spend Ether (ETH) per transaction involves several steps. Here's a basic guide to help you get started:
+
+**1. Install MetaMask:**
+   - MetaMask is a popular Ethereum wallet and browser extension. To get started, you need to install it in your browser. Here are the general steps for Google Chrome:
+     1. Open your Chrome browser.
+     2. Go to the Chrome Web Store.
+     3. Search for "MetaMask" in the search bar.
+     4. Click on "Add to Chrome" next to the MetaMask extension.
+     5. Follow the installation prompts and add the extension to your browser.
+
+**2. Create a Wallet:**
+   - After installing MetaMask, you need to create a wallet if you don't already have one. Here's how:
+     1. Click on the MetaMask extension icon in your browser.
+     2. Follow the setup process to create a new wallet. This will include setting up a strong password and writing down your recovery seed phrase. Store this phrase securely, as it's essential for wallet recovery.
+
+**3. Fund Your Wallet:**
+   - To spend Ether, you need to have some in your MetaMask wallet. You can:
+     - Buy Ether from a cryptocurrency exchange and transfer it to your MetaMask wallet.
+     - Receive Ether from others by sharing your Ethereum address.
+
+**4. Access MetaMask:**
+   - Click on the MetaMask extension icon in your browser to access your wallet.
+
+**5. Send Ether:**
+   - To send Ether to another Ethereum address, follow these steps:
+     1. In the MetaMask wallet interface, click on the "Send" or "Send Ether" button.
+     2. Enter the recipient's Ethereum address.
+     3. Enter the amount of Ether you want to send.
+     4. Choose the network and gas fee. The gas fee is what you pay for the transaction to be processed on the Ethereum network. You can select a recommended fee or set a custom one.
+     5. Confirm the transaction and enter your wallet password.
+     6. Review the transaction details and confirm it once more.
+
+**6. Transaction Confirmation:**
+   - After confirming the transaction, you will receive a transaction hash. You can use this hash to track the progress of your transaction on the Ethereum blockchain by visiting an Ethereum block explorer.
+
+**7. Transaction Costs:**
+   - The cost of a transaction in Ether depends on the gas fee, which varies depending on network congestion and the complexity of the transaction. You pay this fee to miners for processing your transaction.
+
+**8. Receipt and History:**
+   - You can check your transaction history within MetaMask to see your spending and track past transactions.
+
+**9. Security:**
+   - Ensure you keep your MetaMask wallet and recovery seed phrase secure. Avoid sharing it with anyone, and be cautious when interacting with smart contracts or unknown addresses.
+
+Remember that Ethereum gas fees can fluctuate, and it's essential to stay updated on the current fee situation to make cost-effective transactions.
